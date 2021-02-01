@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "dmitry youTube mern",
+  "mongoUri": "mongodb+srv://Dima:1234USA@cluster0.badbl.mongodb.net/app?retryWrites=true&w=majority"
+}
