@@ -7,7 +7,8 @@ export const Loader = () => (
   <div className="preloader-wrapper active">    
     <div className="spinner-layer spinner-red-only">
       <div className="circle-clipper left">
-        <div className="circle"></div>
+        <div className="circle" />
+        </div>
          <div className="gap-patch">
          <div className="circle"/>
          </div>
@@ -16,6 +17,5 @@ export const Loader = () => (
        </div>
      </div>
     </div>
-  </div>
-  </div>
+  </div> 
 )
